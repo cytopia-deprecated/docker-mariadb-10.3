@@ -1,6 +1,6 @@
 # MariaDB 10.3 Docker
 
-<small>**Latest build:** 2017-05-17</small>
+<small>**Latest build:** 2017-05-21</small>
 
 [![Build Status](https://travis-ci.org/cytopia/docker-mariadb-10.3.svg?branch=master)](https://travis-ci.org/cytopia/docker-mariadb-10.3) [![](https://images.microbadger.com/badges/version/cytopia/mariadb-10.3.svg)](https://microbadger.com/images/cytopia/mariadb-10.3 "mariadb-10.3") [![](https://images.microbadger.com/badges/image/cytopia/mariadb-10.3.svg)](https://microbadger.com/images/cytopia/mariadb-10.3 "mariadb-10.3") [![](https://images.microbadger.com/badges/license/cytopia/mariadb-10.3.svg)](https://microbadger.com/images/cytopia/mariadb-10.3 "mariadb-10.3")
 
